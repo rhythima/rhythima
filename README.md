@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-## Here's a snake eating my contribution graph
+## Here's my contribution graph
 ![snake gif](https://github.com/rhythima/rhythima/blob/output/github-contribution-grid-snake.gif)
